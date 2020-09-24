@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -18,15 +19,29 @@
   color: white;
 }
 
-.App-link {
-  color: #ddd123;
+.yellow-text {
+  color: #e9c008ef;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.white-text {
+  color: white;
 }
+
+.metric-panel {
+  background-color: hotpink;
+}
+
+.metric-tile {
+  background-color: green;
+}
+
+.top-artist-list {
+  background-color: #1e2636;
+}
+
+.top-artist-list-entry {
+  text-align: left;
+  pad: 10px;
+  color: white;
+}
+
